@@ -1,4 +1,4 @@
-use std::{env, process};
+use std::process;
 
 fn main() {
     let res = cargo_run_bin::cli::run();
