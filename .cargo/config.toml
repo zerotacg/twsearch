@@ -3,5 +3,5 @@
 frequency = "never"
 
 [alias]
-tool-run-bin = ["run", "--quiet", "--package", "cargo-bin", "--"]
+bin = ["run", "--quiet", "--package", "cargo-bin", "--"]
 binstall = ["bin", "cargo-binstall"]
